@@ -5,7 +5,11 @@ Analyzing IPO market trends (2010–June 2025) — includes KPIs, listing gains,
 
 ![IPO Market](https://github.com/user-attachments/assets/69a26387-26fe-49e3-96ef-bded861069ef)
 
-Overview
+**Objective**
+To provide a concise, visual analysis of IPO trends to help investors and analysts identify patterns in listing gains, subscription behavior, and the role of retail vs institutional investors.
+
+
+**Overview**
 This repository contains an Excel dashboard built with Power Query, Power Pivot, Pivot Tables and charts to analyze IPO performance and subscription trends in India from 2010 to June 2025.
 
 1. **Main KPIs:**
@@ -15,8 +19,6 @@ This repository contains an Excel dashboard built with Power Query, Power Pivot,
   - Max Listing Gain: 252.76%  
   - Retail Participation: 42.51%
 
-Objective
-To provide a concise, visual analysis of IPO trends to help investors and analysts identify patterns in listing gains, subscription behavior, and the role of retail vs institutional investors.
 
 2. **Insight:**
   - 559 IPOs raised over ₹7.8 lakh crore between 2010–2025.  
