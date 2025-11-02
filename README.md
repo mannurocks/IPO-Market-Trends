@@ -1,4 +1,4 @@
-IPO Market Trends Dashboard (2010 - 2025 Jun)
+**IPO Market Trends Dashboard (2010 - 2025 Jun)**
 
 **Interactive Excel dashboard** 
 Analyzing IPO market trends (2010–June 2025) — includes KPIs, listing gains, subscription levels and retail vs institutional participation.
