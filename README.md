@@ -2,7 +2,7 @@
 
 **Interactive Excel dashboard** analyzing IPO market trends (2010–June 2025) — includes KPIs, listing gains, subscription levels and retail vs institutional participation.
 
-![Dashboard screenshot](exports/screenshot-dashboard.png)
+![IPO Market](https://github.com/user-attachments/assets/69a26387-26fe-49e3-96ef-bded861069ef)
 
 ## 📌 Overview
 This repository contains an Excel dashboard built with Power Query, Power Pivot, Pivot Tables and charts to analyze IPO performance and subscription trends in India from 2010 to June 2025.
